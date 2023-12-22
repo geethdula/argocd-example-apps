@@ -13,7 +13,7 @@ containerPort: 80
 
 service:
   type: NodePort
-  port: 8081
+  port: 30001
 
 ingress:
   enabled: true
